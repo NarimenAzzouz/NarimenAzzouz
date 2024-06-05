@@ -23,9 +23,9 @@
 
 <div align="left">
   <h3> 🐍Contributions :</h3>
-  <br>
+  
   <img alt="snake eating my contributions" src="https://github.com/walidhsn/walidhsn/blob/output/github-contribution-grid-snake.svg" />
-  <br/>
+ 
 </div>
 
 
