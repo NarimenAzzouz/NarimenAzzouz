@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working from **Home**
 
-- 🌱 I’m currently learning **Docker, Nodejs,Angular ,SpringBoot, React,NestJs,Express**
+- 🌱 I’m currently learning **MEAN,MERN**
 
 - 💬 Ask me about **Node.js, React, Firebase... or anything**
 
